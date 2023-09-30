@@ -10,14 +10,14 @@ const Item = () => {
             <button className="i-btn i-b2">Edit</button>
           </div>
           <div className="item-img">
-            <img src="../../public/card.png" alt="" />
+            <img src="../../card.png" alt="" />
           </div>
         </div>
       </td>
       <td width={"1%"}>
         <div className="type">
           <div className="t-img">
-            <img src="../../public/group1.png" alt="" />
+            <img src="../../group1.png" alt="" />
           </div>
           <div className="t-desc">
             <span>Truck/Van</span>
